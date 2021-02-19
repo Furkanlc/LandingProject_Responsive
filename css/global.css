@@ -1,0 +1,88 @@
+/* 
+
+
+
+.
+
+
+
+*/
+
+.text-center{
+    text-align: center;
+}
+.heading-small{
+    font-size: 1.25rem;
+}
+.heading-medium{
+    font-size: 1.5rem;
+}
+
+.heading-big{
+    font-size:  1.75rem;
+}
+/* color */
+.bg-dark-blue{
+    background: darkgoldenrod;
+}
+
+.bg-light-blue{
+    background: darkkhaki;
+}
+
+/* buttons */
+
+.btn{
+
+    margin-top: 1.25rem;
+    padding: 0.8 3 rem;
+    border-radius: 8px;
+    letter-spacing: 1px;
+}
+.btn-primary{
+    background: steelblue;
+    border-radius: 8px;
+
+}
+.btn-primary:hover{
+  
+    color: tomato;
+    border: 0.5px solid yellow;
+}
+
+.btn-dark{
+    background: grey;
+}
+
+.btn-dark:hover{
+    background: honeydew;
+}
+
+
+/* container */
+
+
+.container{
+
+    max-width: 1110px;
+    margin: 0 auto;
+}
+
+
+/* forms */
+
+.form-group{
+
+    padding: 0.25 0;
+}
+
+.form-group label{
+    display: block;
+}
+.form-control{
+    width: 100%;
+    padding: 0.5rem;
+    font-size: 1rem;
+    resize: none;
+    border-radius: 15px;
+}
